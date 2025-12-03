@@ -73,6 +73,6 @@ OncoGAN came with its own classifier for the 8 tumor types, however it was a Dee
 With these CSV files produced from modeling, we can now do our independent research to see if these highly weighted variables are recognized in the medical field as being drivers for that specific cancer. If we find a result from a peer-reviewed journal, we will put a '1' in that category. If not, we will put a 0. 
 
 # Conclusion:
-
+After completing our exploratory data analysis we were able to find medical evidence for 84% of the top 10 model-identioned cancer drivers across the 8 tumor types. With our best-performing multi-omic model acheiving ~99% test accuracy. 16% of the highest-impact features lack strong support in medical literature so further research for these drivers is encouraged as they show promising leads.
 
 
